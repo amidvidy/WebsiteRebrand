@@ -1,5 +1,17 @@
-#header{
-    text-align:center;
-    padding:20px;
-    background:#e4e4e4;
+#header {
+  text-align:center;
+  padding:20px;
+  background:#e4e4e4;
+}
+
+#sidebar {
+  margin:20px;
+}
+
+div.cat {
+  padding: 20px;
+}
+
+div.cat img {
+  max-height: 120px;
 }
